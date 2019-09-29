@@ -6,7 +6,6 @@ Sprring Boot exception handling examples  - Udacity Java Nanodegree.
     https://start.spring.io/
     Spring Boot2.1.8.RELEASE
     Spring Web
-    WebSocket
     Thymeleaf
     DevTool
     Maven
